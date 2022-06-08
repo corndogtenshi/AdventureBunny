@@ -5,7 +5,7 @@ In Adventure bunny, you play as a joyful bunny who digs underground in order to 
 Credit for art goes to Ashley (Digiflower5).
 
 ## How to play
-You can play by using the arrow keys or WASD keys on your keyboard. Avoid dangerous enemies and boulders! Collect all of the keys to get the treasure for each level.
+You can play by using the arrow keys or WASD keys on your keyboard. Avoid dangerous enemies and boulders! Collect all of the keys to unlock the treasure chest for each level and move forward.
 
 ## Gameplay
 ![Pasted image 20220608050816](https://user-images.githubusercontent.com/40770861/172591250-53b344fc-633f-4d26-8feb-553b68a0bd61.png)
